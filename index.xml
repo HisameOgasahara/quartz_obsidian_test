@@ -2,31 +2,31 @@
 <rss version="2.0">
     <channel>
       <title>블로그 테스트</title>
-      <link>https://quartz.jzhao.xyz</link>
+      <link>https://hisameogasahara.github.io/quartz_obsidian_test</link>
       <description>Last 10 notes on 블로그 테스트</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>테스트</title>
-    <link>https://quartz.jzhao.xyz/Deep-Learning/%ED%85%8C%EC%8A%A4%ED%8A%B8</link>
-    <guid>https://quartz.jzhao.xyz/Deep-Learning/%ED%85%8C%EC%8A%A4%ED%8A%B8</guid>
+    <link>https://hisameogasahara.github.io/quartz_obsidian_test/Deep-Learning/%ED%85%8C%EC%8A%A4%ED%8A%B8</link>
+    <guid>https://hisameogasahara.github.io/quartz_obsidian_test/Deep-Learning/%ED%85%8C%EC%8A%A4%ED%8A%B8</guid>
     <description>import torch import torch.nn as nn class SimpleLLM(nn.Module): def __init__(self, vocab_size, embed_dim): super().__init__() self.embedding = nn.Embedding(vocab_size, embed_dim) # ..</description>
     <pubDate>Sat, 05 Jul 2025 09:11:44 GMT</pubDate>
   </item><item>
     <title>테스트</title>
-    <link>https://quartz.jzhao.xyz/Math/%ED%85%8C%EC%8A%A4%ED%8A%B8</link>
-    <guid>https://quartz.jzhao.xyz/Math/%ED%85%8C%EC%8A%A4%ED%8A%B8</guid>
+    <link>https://hisameogasahara.github.io/quartz_obsidian_test/Math/%ED%85%8C%EC%8A%A4%ED%8A%B8</link>
+    <guid>https://hisameogasahara.github.io/quartz_obsidian_test/Math/%ED%85%8C%EC%8A%A4%ED%8A%B8</guid>
     <description>\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}.</description>
     <pubDate>Sat, 05 Jul 2025 09:11:44 GMT</pubDate>
   </item><item>
     <title>Welcome to My Tech Blog</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
+    <link>https://hisameogasahara.github.io/quartz_obsidian_test/</link>
+    <guid>https://hisameogasahara.github.io/quartz_obsidian_test/</guid>
     <description>안녕하세요! 제 기술 블로그에 오신 것을 환영합니다. 앞으로 이곳에 수학과 AI에 대한 다양한 지식을 기록할 예정입니다.</description>
     <pubDate>Sat, 05 Jul 2025 09:11:44 GMT</pubDate>
   </item><item>
     <title>옵시디안 with gemini</title>
-    <link>https://quartz.jzhao.xyz/obsidian_test/%EC%98%B5%EC%8B%9C%EB%94%94%EC%95%88-with-gemini</link>
-    <guid>https://quartz.jzhao.xyz/obsidian_test/%EC%98%B5%EC%8B%9C%EB%94%94%EC%95%88-with-gemini</guid>
+    <link>https://hisameogasahara.github.io/quartz_obsidian_test/obsidian_test/%EC%98%B5%EC%8B%9C%EB%94%94%EC%95%88-with-gemini</link>
+    <guid>https://hisameogasahara.github.io/quartz_obsidian_test/obsidian_test/%EC%98%B5%EC%8B%9C%EB%94%94%EC%95%88-with-gemini</guid>
     <description>aistudio.google.com/app/prompts%7B%22ids%22:%5B%221K3FNW5m6GA1RTXXd0fczEZMdJsDXahk2%22%5D,%22action%22:%22open%22,%22userId%22:%22114403999617361421539%22,%22resourceKeys%22:%7B%7D%7D&amp;usp=sharing.</description>
     <pubDate>Sat, 05 Jul 2025 09:11:44 GMT</pubDate>
   </item>
