@@ -15,7 +15,7 @@ jobs:
           fetch-depth: 0 # Fetch all history for git info
       - uses: actions/setup-node@v4
         with:
-          node-version: 20 # Quartz는 Node 18 이상이 필요합니다. (package.json에 맞춰 22로 설정해도 됩니다)
+          node-version: 22 # Quartz는 Node 18 이상이 필요합니다. (package.json에 맞춰 22로 설정해도 됩니다)
           cache: 'npm'
       - name: Install Dependencies
         run: npm ci
