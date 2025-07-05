@@ -1,4 +1,14 @@
 version: 2
+
+registries:
+  # npm-node-22 라는 이름으로 새로운 레지스트리 설정을 정의합니다.
+  npm-node-22:
+    type: npm-registry
+    url: https://registry.npmjs.org
+    # 여기서 Node.js 버전을 지정합니다.
+    # v22 또는 그냥 22 라고 적어주면 됩니다.
+    node-version: 22
+
 updates:
   - package-ecosystem: "npm"
     directory: "/"
